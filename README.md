@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently delving into Machine Learning and AI<br>- ⚡ In my free time I watch, breathe and eat football⚽ and I also play the guitar🎸</p>
+<p align="left">- 📚 I'm currently delving into Machine Learning and AI<br>- ⚡ In my free time I watch, breathe and eat football⚽ and I also play guitar🎸</p>
 
 ###
 
@@ -45,9 +45,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
