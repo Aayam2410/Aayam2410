@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently delving into Machine Learning and AI<br>- ⚡ In my free time I watch, breathe and eat football⚽ and I also play guitar🎸</p>
+<p align="left">- 📚 I'm currently delving into Machine Learning and AI<br>- ⚡ In my free time I watch, breathe and eat football⚽</p>
 
 ###
 
